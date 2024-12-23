@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b0a3167930b98f1d",
+    "id": "8ba0e49063407413",
     "type": "split",
     "children": [
       {
-        "id": "84d772556b739a4e",
+        "id": "0c8255ed8f8f6396",
         "type": "tabs",
         "children": [
           {
-            "id": "97443425ed94a6dc",
+            "id": "4f54e9613df65c57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poland.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Poland"
+              "title": "New tab"
             }
           }
         ]
@@ -27,27 +23,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c0188a87d6413da4",
+    "id": "4b90eb076d01db49",
     "type": "split",
     "children": [
       {
-        "id": "829fdc8844502894",
+        "id": "bdbe58189a890cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "28c67af2ec6e8d87",
+            "id": "39db8537245ac6fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6c44ff2fa2b2362d",
+            "id": "885a478daf1d1f78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "d8b170923d301250",
+            "id": "4202262220122a4e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "46c46471389b5696",
+    "id": "1361b041798634ba",
     "type": "split",
     "children": [
       {
-        "id": "b21119e197d18a4c",
+        "id": "8592fe64189d1107",
         "type": "tabs",
         "children": [
           {
-            "id": "cea0dab4011d70b4",
+            "id": "02383fd93c742bfa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4c2328eb8636bf93",
+            "id": "b2c8f5a237e99a1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "22200a012450df97",
+            "id": "b9cb708388f77720",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +128,13 @@
             }
           },
           {
-            "id": "4f8f6e7480756341",
+            "id": "36c7285aae7b8c28",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -162,29 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97443425ed94a6dc",
-  "lastOpenFiles": [
-    "Welcome/University/Gdańsk University of Technology.md",
-    "Obsidian research/Obsidian research.md",
-    "Obsidian research/run_obsidian.sh",
-    "Obsidian research/Research.md",
-    "Obsidian research",
-    "House_project/House contract.md",
-    "House_project",
-    "Welcome/University/Names of university.md",
-    "Welcome/University/University.md",
-    "Poland.md",
-    "Country.md",
-    "Welcome/Welcome.md",
-    "Welcome/University/Warsaw University of Technology.md",
-    "Welcome/University",
-    "Welcome/Untitled 1",
-    "Untitled.canvas",
-    "Untitled/Untitled.md",
-    "Untitled 2",
-    "Welcome",
-    "Welcome/University/Poznan University of Technology.md",
-    "hello.md",
-    "create a link.md"
-  ]
+  "active": "4f54e9613df65c57",
+  "lastOpenFiles": []
 }

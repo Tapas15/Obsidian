@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poland.md",
+                "file": "Obsidian research/Obsidian research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poland"
+              "title": "Obsidian research"
             }
           }
         ]
@@ -149,9 +149,10 @@
   },
   "active": "86183474698e0bbb",
   "lastOpenFiles": [
+    "Poland.md",
+    "Obsidian research/Obsidian research.md",
     "Obsidian research/run_obsidian.sh",
     "Obsidian research/Research.md",
-    "Poland.md",
     "Country.md",
     "Welcome/University/Names of university.md",
     "Welcome/University/Gdańsk University of Technology.md",
