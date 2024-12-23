@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OMniverse/House_project/House contract.md",
+                "file": "OMniverse/Welcome/University/Gdańsk University of Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House contract"
+              "title": "Gdańsk University of Technology"
             }
           }
         ]
@@ -145,10 +145,11 @@
   },
   "active": "640898ce78d1e730",
   "lastOpenFiles": [
+    "OMniverse/Country.md",
     "OMniverse/Poland.md",
+    "OMniverse/House_project/House contract.md",
     "OMniverse/Welcome/University/Gdańsk University of Technology.md",
     "OMniverse/Obsidian research/Obsidian research.md",
-    "Scripts/run_obsidian.sh",
-    "OMniverse/House_project/House contract.md"
+    "Scripts/run_obsidian.sh"
   ]
 }
