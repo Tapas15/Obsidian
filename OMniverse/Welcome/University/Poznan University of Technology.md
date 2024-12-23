@@ -1,3 +1,0 @@
-1)Official program link AI  78360 (https://put.poznan.pl/en/node/78360)
-2 ) Admission Online apply-  Enrollment for Poznan University of Technology - Candidate's Web portal | Poznan University of Technology (https://rekrutacja.put.poznan.pl/en/)  Starting Dt --- Deadline- 20 January 2025, Important for Documents.  IELTS Required
-3)Online apply line- login (https://www.cwm.pw.edu.pl/apply/index.php/rekrutacja/default/login) Fees-  5 lakh

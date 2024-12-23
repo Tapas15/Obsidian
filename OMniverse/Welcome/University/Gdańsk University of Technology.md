@@ -1,3 +1,0 @@
-1)How to apply How to Apply / Main page - WUT International Students Office (https://www.students.pw.edu.pl/How-to-Apply)
-2 ) Admission Admission-to-M (https://www.students.pw.edu.pl/How-to-Apply/Admission-to-M.Sc) Starting Dt 11 December 2024 Deadline- 20 January 2025, Important for Documents.  IELTS is Mandatory.
-3)Online apply line- login (https://www.cwm.pw.edu.pl/apply/index.php/rekrutacja/default/login)

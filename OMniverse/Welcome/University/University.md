@@ -1,1 +1,0 @@
-[[Names of university]]
