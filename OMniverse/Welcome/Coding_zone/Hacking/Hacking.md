@@ -1,0 +1,1 @@
+1) Revese engineering ![SOFTWARE CRACKING #2: REVERSE ENGINEERING PYTHON EXECUTABLE - YouTube](https://img.youtube.com/vi/NEH4DTlFk0o/maxresdefault.jpg#$width=15p$) (https://www.youtube.com/watch?v=NEH4DTlFk0o)
